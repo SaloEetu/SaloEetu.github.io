@@ -1,10 +1,12 @@
 # SaloEetu.github.io
-SaloEetu.github.io/portfolio
-
-# Business Analytics 
 
 ### Education
 Bachelor of Information Systems Science from the University of Jyväskylä
+- GPA: 4,67/5
+- Academic Excellence Scholarship for outstanding academic performance
+- 2023 Student Exchange Program
+Kennesaw State University, Kennesaw,
+Georgia, USA
 
 ### Work Experience
 IT Project Worker @ Lahden Talot Oy
